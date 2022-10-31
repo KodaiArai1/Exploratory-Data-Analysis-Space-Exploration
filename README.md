@@ -3,8 +3,6 @@ I am passionate about discovering new things. And space is one of them.
 I took the Rocket Launch dataset and analysed the data in Python with interactive charts and graphs to showcase my findings. This shows an interesting picture of the space race. 
 
 Techniques I used:
--data wrangling
--exploratory analysis
--data visualtion
+data wrangling, exploratory analysis, data visualtion
 
 (side not - space launches in Kazakhstan were carried out by the USSR)
